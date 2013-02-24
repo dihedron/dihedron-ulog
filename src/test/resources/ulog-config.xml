@@ -20,7 +20,7 @@
 			<!-- </handler> -->
 			<!-- <handler class="org.dihedron.ulog.handlers.AsynchronousHandler"> -->
 					<handler class="org.dihedron.ulog.handlers.FileWriter">
-						<param name="file">myfilename.log</param>
+						<param name="file">target/myfilename.log</param>
 					</handler>
 			<!-- </handler> -->
 			</handler>
